@@ -115,10 +115,10 @@ This is a web-based **AI-powered flashcard learning system** designed to help us
 
 ### **1. Home Screen**
 - Create and review flashcards.
-![Home Screen](link_to_screenshot)
+![Home Screen](images/CreateFlashCard.png)
 
 ### **2. Review Flashcard**
 - Mark flashcards or delete them directly.
-![Review Flashcard](link_to_screenshot)
+![Review Flashcard](link_to_screenshot/ReviewFlashCard.png)
 
 ---
