@@ -119,6 +119,6 @@ This is a web-based **AI-powered flashcard learning system** designed to help us
 
 ### **2. Review Flashcard**
 - Mark flashcards or delete them directly.
-![Review Flashcard](link_to_screenshot/ReviewFlashCard.png)
+![Review Flashcard](images/ReviewFlashCard.png)
 
 ---
